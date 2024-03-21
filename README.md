@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🧙🏽‍♂️ Hello, I’m Labib Naufal
+📘 Web App Stack: JS/TS, Node, React and much more...
 <!--
 **Labibmon/labibmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
